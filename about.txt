@@ -1,0 +1,1 @@
+This is Harshit’s About file for the Git assignment.
